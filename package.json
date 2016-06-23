@@ -1,0 +1,25 @@
+{
+  "name": "clarion-js",
+  "version": "1.0.0",
+  "description": "Clarion Evaluator",
+  "main": "clarion.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/micrak/clarion-js.git"
+  },
+  "keywords": [
+    "clarion",
+    "javascript",
+    "js",
+    "evaluator"
+  ],
+  "author": "micrak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/micrak/clarion-js/issues"
+  },
+  "homepage": "https://github.com/micrak/clarion-js#readme"
+}
